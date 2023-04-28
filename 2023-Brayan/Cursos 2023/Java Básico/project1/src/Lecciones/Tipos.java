@@ -1,5 +1,8 @@
 package Lecciones;
 
+/**
+ * @author Brayan Horta
+ */
 public class Tipos {
     public static void main(String[] args) {
         // tipo identificador = 30;
